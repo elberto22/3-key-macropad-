@@ -1,0 +1,1 @@
+this is a 4 key (not 3) macropad i am designing as part of my hack club arcade project. so far i have designed a simple pcb and will work on a circuit python script for the firmware and designing a 3d printable case. thanks!
